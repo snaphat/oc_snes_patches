@@ -9,6 +9,6 @@ This table contains asar/xkas compatible assembly and bps patches for games with
 | Super Metroid (Japan, USA) (En,Ja) | APU Race conditions.           | d63ed5f8 | [asm](Super%20Metroid%20(Japan%2C%20USA)%20(En%2CJa).asm) | [bps](Super%20Metroid%20(Japan%2C%20USA)%20(En%2CJa).bps) |
 | Top Gear 2 (Europe)                | NTSC/PAL Check. APU Race conds.| 531463e1 | [asm](Top%20Gear%202%20(Europe).asm)                      | [bps](Top%20Gear%202%20(Europe).bps)                      |
 | Top Gear 2 (USA)                   | NTSC/PAL Check. APU Race conds.| 2b88bee8 | [asm](Top%20Gear%202%20(USA).asm)                         | [bps](Top%20Gear%202%20(USA).bps)                         |
-| Top Racer 2 (Japan)                | NTSC/PAL Check. APU Race conds.| 31daebb2 | [asm](Top%20Rally%202%20(Japan).asm)                      | [bps](Top%20Rally%202%20(Japan).bps)                      |
+| Top Racer 2 (Japan)                | NTSC/PAL Check. APU Race conds.| 31daebb2 | [asm](Top%20Racery%202%20(Japan).asm)                      | [bps](Top%20RRacer%202%20(Japan).bps)                    |
 
  
